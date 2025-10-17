@@ -130,7 +130,7 @@ While central districts remain premium, the rise of listings in peripheral areas
 
 ---
 
-## 📰 For Further Reading
+##  For Further Reading
 
 This analysis is also available as a Medium-style article:  
 > *“How Airbnb Transformed Venice: A Data-Driven View on Tourism and Accessibility”*
