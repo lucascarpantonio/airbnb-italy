@@ -1,1 +1,4 @@
-
+theme: jekyll-theme-cayman
+title: "Airbnb Market Analysis in Venice"
+description: "A data-driven exploration of Airbnb growth, pricing, and host behavior in Venice."
+author: "Luca Scarpantonio"
