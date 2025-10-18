@@ -3,14 +3,14 @@ layout: default
 title: "How Airbnb Transformed Venice"
 ---
 
-# 🏠 How Airbnb Transformed Venice
+# How Airbnb Transformed Venice
 ### *A Data Story by Luca Scarpantonio*
 
 ![Venice Lagoon at Sunset](../images/venice-cover.jpg)
 
 ---
 
-## 🌍 Introduction
+## Introduction
 
 Over the past decade, **Venice** — one of the world’s most visited cities — has undergone a profound change in the way visitors experience it.  
 Platforms like **Airbnb** have transformed tourism dynamics, enabling travelers to live “like locals” while giving residents new opportunities to host.
@@ -23,7 +23,7 @@ This project explores those questions using data from **Inside Airbnb**, an open
 
 ---
 
-## ❓ The Questions
+## The Questions
 
 1. **How has the number of Airbnb listings evolved in recent years?**  
 2. **How have supply and demand affected average prices?**  
@@ -33,7 +33,7 @@ Each of these questions helps reveal how Airbnb reshaped tourism in Venice — f
 
 ---
 
-## 🏙️ 1. The Rise of Airbnb in Venice
+## 1. The Rise of Airbnb in Venice
 
 ![Listings Trend](../images/trend_listings.png)
 
@@ -44,7 +44,7 @@ This trend mirrors the global adoption of short-term rentals — but Venice show
 
 ---
 
-## 💶 2. How Prices Responded to Market Growth
+## 2. How Prices Responded to Market Growth
 
 ![Price Trend](../images/price_trend.png)
 
@@ -58,7 +58,7 @@ By 2025, average prices for short stays (under 7 days) are **comparable to 2016 
 
 ---
 
-## 🏘️ 3. Different Patterns by Area
+## 3. Different Patterns by Area
 
 ![Price by Area](../images/facet_price_area.png)
 
@@ -71,7 +71,7 @@ Not all parts of Venice evolved the same way.
 
 ---
 
-## 🧑‍💼 4. The Hosts Behind the Growth
+## 4. The Hosts Behind the Growth
 
 ![Hosts vs Listings](../images/hosts_vs_listings.png)
 
@@ -84,7 +84,7 @@ This means the growth was **both in breadth and depth**:
 
 ---
 
-## 💡 5. What the Numbers Tell Us
+## 5. What the Numbers Tell Us
 
 | Year | Active Listings | Avg. Price (€) | Avg. Reviews per Host |
 |------|-----------------|----------------|------------------------|
@@ -98,7 +98,7 @@ This means the growth was **both in breadth and depth**:
 
 ---
 
-## 🔮 Conclusion — A New Balance
+## Conclusion — A New Balance
 
 Venice’s Airbnb market has **expanded and matured**.  
 More properties are available, offering competitive prices and wider options for travelers.  
@@ -109,7 +109,7 @@ While some areas remain premium, the city overall has become **more accessible**
 
 ---
 
-## 📚 Data & Credits
+## Data & Credits
 
 **Data Source:** [Inside Airbnb](https://insideairbnb.com/get-the-data.html)  
 **Analysis & Visualization:** Luca Scarpantonio  
