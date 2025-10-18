@@ -35,7 +35,7 @@ Each of these questions helps reveal how Airbnb reshaped tourism in Venice — f
 
 ## 1. The Rise of Airbnb in Venice
 
-![Listings Trend](../images/trend_listings.png)
+![Listings Trend](./images/trend_listings.png)
 
 The number of available listings has grown **steadily since 2015**, reflecting Airbnb’s increasing popularity.  
 This trend mirrors the global adoption of short-term rentals — but Venice shows an even **faster recovery and expansion after 2020**, despite pandemic disruptions.
@@ -46,7 +46,7 @@ This trend mirrors the global adoption of short-term rentals — but Venice show
 
 ## 2. How Prices Responded to Market Growth
 
-![Price Trend](../images/price_trend.png)
+![Price Trend](./images/price_trend.png)
 
 Interestingly, while the number of listings increased dramatically, **average prices did not rise accordingly**.  
 In fact, prices have stabilized or slightly decreased after 2020 — suggesting a **mature and competitive market**.
@@ -60,7 +60,7 @@ By 2025, average prices for short stays (under 7 days) are **comparable to 2016 
 
 ## 3. Different Patterns by Area
 
-![Price by Area](../images/facet_price_area.png)
+![Price by Area](./images/facet_price_area.png)
 
 Not all parts of Venice evolved the same way.  
 - **Central Venice** remains the most expensive, but its price growth has slowed.  
@@ -73,7 +73,7 @@ Not all parts of Venice evolved the same way.
 
 ## 4. The Hosts Behind the Growth
 
-![Hosts vs Listings](../images/hosts_vs_listings.png)
+![Hosts vs Listings](./images/hosts_vs_listings.png)
 
 As the market expanded, both **new hosts joined** and **existing hosts published multiple listings**.  
 This means the growth was **both in breadth and depth**:
