@@ -6,7 +6,7 @@ title: "How Airbnb Transformed Venice"
 # How Airbnb Transformed Venice
 ### *A Data Story by Luca Scarpantonio*
 
-![Venice Lagoon at Sunset](../images/venice-cover.jpg)
+![Venice Lagoon at Sunset](./images/venice-cover.jpg)
 
 ---
 
